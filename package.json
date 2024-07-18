@@ -1,0 +1,9 @@
+{
+  "name": "pulumi-github-variable-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pulumi.ts",
+  "dependencies": {
+    "@pulumi/github": "^6.2.3"
+  }
+}
